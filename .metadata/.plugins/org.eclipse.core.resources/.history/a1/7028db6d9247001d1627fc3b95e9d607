@@ -1,0 +1,29 @@
+
+class Car {
+	String company; //instance variables
+	int speed; //instance variables
+	
+	void getSpeed() {
+		System.out.println("Company name:" + company + " Speed: " + speed);
+	}
+}
+
+
+public class MainCarClass{
+	
+	public static void main(String args[]) {
+		
+		Car car1 = new Car();//new keyword is used to create an object
+		//object creation means allocating memory
+		
+		Car car2 = new Car();
+		
+		
+		
+		
+		
+	}
+	
+}
+
+

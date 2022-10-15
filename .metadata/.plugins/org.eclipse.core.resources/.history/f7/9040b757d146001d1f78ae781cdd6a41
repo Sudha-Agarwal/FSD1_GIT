@@ -1,0 +1,22 @@
+
+public class Person {
+	//name, age, height, weight 
+	// variables
+	
+	//syntax for creating a variable
+	//type variable_name
+	
+	 int age = 10;
+	double weight = 60.4;
+	
+	boolean isHuman = true;
+	
+	String name = "Sudha";
+
+}
+
+
+
+
+
+

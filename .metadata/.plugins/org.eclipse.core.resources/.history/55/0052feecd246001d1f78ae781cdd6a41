@@ -1,0 +1,26 @@
+
+public class Person {
+	//name, age, height, weight 
+	// variables
+	
+	//syntax for creating a variable
+	//type variable_name
+	
+	 int age = 10;//declaring/defining a variable and assigning a
+	 //value
+	double weight = 60.4;
+	
+	boolean isHuman = true;
+	
+	String name = "Sudha";
+	
+	void print(){
+		System.out.print(age);		
+	}
+}
+
+
+
+
+
+

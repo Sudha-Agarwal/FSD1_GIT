@@ -1,0 +1,26 @@
+public class MainClass {
+	
+	//method definition
+	
+	//num1 and num2 are called as parameters	
+	
+	static int sum(int num1, int num2){
+		int result = num1 + num2;
+		return result;
+	}	
+	
+	static int sum(int num1) {
+		int result = num1+num1;
+		return result;
+	}	
+	
+	static long sum(long num1, long num2) {
+		long result = num1+num2;
+		return result;
+	}
+	
+	public static void main(String[] args) {		
+		int return_val = sum(2);//method calling
+		System.out.println(return_val);
+	}
+}

@@ -1,0 +1,20 @@
+
+class Car {
+	String company;
+	int speed;
+	
+	void getSpeed() {
+		System.out.println("Company name:" + company + " Speed: " + speed);
+	}
+}
+
+
+public class MainCarClass{
+	
+	public static void main(String args[]) {
+		
+	}
+	
+}
+
+
